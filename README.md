@@ -4,63 +4,6 @@ A structured, phase-by-phase repository for learning **Computer Vision using Ope
 
 ---
 
-## 📁 Repository Structure
-
-```
-computer-vision-by-purvi-jain/
-│
-├── Phase-1/                          # Basic Image Operations
-│   ├── dimension.py
-│   ├── displaying.py
-│   ├── grayscale.py
-│   ├── loading.py
-│   └── saving.py
-│
-├── Phase-2/                          # Image Transformations
-│   ├── Crop.py
-│   ├── Flip.py
-│   ├── resize.py
-│   └── rotation.py
-│
-├── Phase-3/                          # Drawing on Images
-│   ├── circle.py
-│   ├── line.py
-│   ├── rectangle.py
-│   └── text.py
-│
-├── Phase-4/                          # Video Operations
-│   ├── gray_video.py
-│   ├── save_video.py
-│   └── video_capture.py
-│
-├── Phase-5/                          # Image Filtering & Blurring
-│   ├── bilateral.py
-│   ├── equalized.py
-│   ├── gaussian_blur.py
-│   ├── median_blur.py
-│   └── sharpening.py
-│
-├── Phase-6/                          # Edge Detection & Thresholding
-│   ├── bitwise.py
-│   ├── canny_edge.py
-│   └── threshold_func.py
-│
-├── Phase-7/                          # Contours
-│   ├── contours.py
-│   ├── detection.py
-│   └── draw_contours.py
-│
-├── OpenCV_Projects/
-│   ├── Face_Detection/
-│   ├── Image_Processing_Project/
-│   └── Sketchify/
-│
-├── requirement.txt
-└── README.md
-```
-
----
-
 ## 📚 Contents Overview
 
 ### 🔹 Phase 1 — Basic Image Operations
@@ -156,6 +99,63 @@ End-to-end computer vision projects applying all the above concepts.
 | 🖼️ `Image_Processing_Project` | A combined image processing pipeline | ✅ Complete |
 | ✏️ `Sketchify` | Converts a photo into a pencil sketch effect | ✅ Complete |
 | 🔜 More projects... | Object Tracking, Background Subtraction, and more | 🚧 Coming Soon |
+
+---
+
+## 📁 Repository Structure
+
+```
+computer-vision-by-purvi-jain/
+│
+├── Phase-1/                          # Basic Image Operations
+│   ├── dimension.py
+│   ├── displaying.py
+│   ├── grayscale.py
+│   ├── loading.py
+│   └── saving.py
+│
+├── Phase-2/                          # Image Transformations
+│   ├── Crop.py
+│   ├── Flip.py
+│   ├── resize.py
+│   └── rotation.py
+│
+├── Phase-3/                          # Drawing on Images
+│   ├── circle.py
+│   ├── line.py
+│   ├── rectangle.py
+│   └── text.py
+│
+├── Phase-4/                          # Video Operations
+│   ├── gray_video.py
+│   ├── save_video.py
+│   └── video_capture.py
+│
+├── Phase-5/                          # Image Filtering & Blurring
+│   ├── bilateral.py
+│   ├── equalized.py
+│   ├── gaussian_blur.py
+│   ├── median_blur.py
+│   └── sharpening.py
+│
+├── Phase-6/                          # Edge Detection & Thresholding
+│   ├── bitwise.py
+│   ├── canny_edge.py
+│   └── threshold_func.py
+│
+├── Phase-7/                          # Contours
+│   ├── contours.py
+│   ├── detection.py
+│   └── draw_contours.py
+│
+├── OpenCV_Projects/
+│   ├── Face_Detection/
+│   ├── Image_Processing_Project/
+│   └── Sketchify/
+│
+├── requirement.txt
+└── README.md
+```
 
 ---
 
